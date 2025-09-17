@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Preferred Name_preferred_name</name>
+   <tag></tag>
+   <elementGuidId>b0941e7c-d01d-4c25-84fa-c425314ce3af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='preferred_name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;preferred_name&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Preferred Name&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2ec6cef7-e90b-4ee7-9542-eeac910480d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1a1fc25a-72a9-44a3-a3a7-6d2cf9c384c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>preferred_name</value>
+      <webElementGuid>abce0f8e-6896-49c8-b08a-1156d76210cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Preferred Name</value>
+      <webElementGuid>e7a57826-36b4-4b1c-a37d-7f51a91e9e0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control </value>
+      <webElementGuid>a1b69c81-5bad-489c-90cc-b13b42af62c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper registration-form&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row row d-flex flex-wrap&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;row register-wrap&quot;]/div[@class=&quot;col-md-12 register-content&quot;]/div[@class=&quot;register-inner-wrap h-100&quot;]/div[@class=&quot;list-unstyled p-0&quot;]/div[@class=&quot;wizard-inner-step undefined current&quot;]/div[@class=&quot;wizard-content d-flex flex-wrap w-100&quot;]/div[@class=&quot;com-wrapper&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;input-field col-sm-3 field_3 field-preferred_name&quot;]/div[@class=&quot;form-group mb-3 preferred_name_field&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>0b9b36b3-801d-48c6-8bd7-3a6636800e13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='preferred_name']</value>
+      <webElementGuid>5f5e0ff1-912e-426a-a5eb-3716451de3cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div/div/div[3]/div[2]/div/form/div/div[4]/div/input</value>
+      <webElementGuid>57812a15-7ce9-4751-99ac-f22bfd2b720e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/input</value>
+      <webElementGuid>a92df7da-26c0-4834-99f7-41060ddd3726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'preferred_name' and @placeholder = 'Preferred Name']</value>
+      <webElementGuid>7a738cad-ebdd-499d-80cf-c7ceeb8368d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

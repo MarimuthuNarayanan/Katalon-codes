@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_435.00</name>
+   <tag></tag>
+   <elementGuidId>de56af4c-fcc5-4b52-a6af-a8aba028084d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fs-5.fw-semibold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=/^\$435\.00$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5571bfe1-a089-4f6a-b99f-dd7cef12b6b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-5 fw-semibold</value>
+      <webElementGuid>9143e36e-970e-4d52-a10b-65f2b0d13936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$435.00</value>
+      <webElementGuid>f2a842d3-cdda-4965-82f8-c80a0b3c6abb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper registration-form&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row row d-flex flex-wrap&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;payment-frm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 order-2 order-md-1 mt-3 mt-md-0&quot;]/div[@class=&quot;card card-custom mb-4&quot;]/div[@class=&quot;card-body p-4&quot;]/div[@class=&quot;d-flex justify-content-end mb-4&quot;]/div[@class=&quot;d-flex justify-content-between w-100&quot;]/span[@class=&quot;fs-5 fw-semibold&quot;]</value>
+      <webElementGuid>e42df862-da58-4ad9-a5ce-d3a634401b85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>74e57f10-76a4-4aa4-a1a1-2155f8b7e66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership fee'])[1]/following::span[1]</value>
+      <webElementGuid>37a36679-4b9f-42d3-a354-807fa6098a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Amount'])[1]/following::span[1]</value>
+      <webElementGuid>01401408-e4a3-434e-95bb-3bbe2124d51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coupon'])[1]/preceding::span[1]</value>
+      <webElementGuid>7d7d077a-226f-4199-a192-d2d0299c7bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Coupon'])[1]/preceding::span[1]</value>
+      <webElementGuid>da8bef05-fa3d-4283-be77-ba23b66672c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$']/parent::*</value>
+      <webElementGuid>cd5bb274-b6e4-4198-bc8f-5704dc17d879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>1486806d-2c58-4106-8c51-91929869ec5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$435.00' or . = '$435.00')]</value>
+      <webElementGuid>dfe44fa1-8fa9-4ee8-bffa-af7e4c48d3c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

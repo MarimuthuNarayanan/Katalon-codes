@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I agree to theTerms and Conditions</name>
+   <tag></tag>
+   <elementGuidId>6d564383-63fd-42a6-b401-3890a8a1601a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(), 'I agree')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.form-check-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;I agree to theTerms and Conditions&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>caf28b71-f50b-4aee-ba17-92550d2a50ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>7b7e3b95-a8b1-4626-b532-0a7488ac7c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>agree</value>
+      <webElementGuid>8aba6275-25c2-4f68-bdc2-cb6c7ceb2b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I agree to theTerms and Conditions</value>
+      <webElementGuid>331b593a-f413-4f14-8061-e6961065f83b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper registration-form&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row row d-flex flex-wrap&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;payment-frm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 order-1 order-md-2&quot;]/div[@class=&quot;card card-custom h-100 mb-3&quot;]/div[@class=&quot;card-body p-4&quot;]/form[1]/div[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;form-check agree-input&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>9d65ffa2-5d07-4072-96ae-e62d09d1f2ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div[2]/div/div[2]/form/div/div[7]/div/label</value>
+      <webElementGuid>fa20032a-4e50-4a05-b8d3-afdfbfe77d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::label[1]</value>
+      <webElementGuid>302f000e-671e-4979-b0f3-24c95414b6b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::label[1]</value>
+      <webElementGuid>85eabc0a-5e59-4a79-9cc8-75265f67e84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/label</value>
+      <webElementGuid>417a74c1-5446-4482-9099-d46b7459e080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I agree to theTerms and Conditions' or . = 'I agree to theTerms and Conditions')]</value>
+      <webElementGuid>9945c524-1522-457c-85f3-7fd64f24c282</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

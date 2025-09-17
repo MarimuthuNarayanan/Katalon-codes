@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Signature_1_2_3_4_5_6_7</name>
+   <tag></tag>
+   <elementGuidId>7a934e94-bc7d-4b1f-9704-4e4f2c28bd08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.accordion-collapse.collapse.show > div.accordion-body > form > div:nth-of-type(11) > div:nth-of-type(2) > div > div.alex-brush > button.no-print.margin-top.btn.btn-outline-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Signature&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8725f30e-ce63-479f-a4d5-2859708b0424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9ae83130-b6d7-4911-a0a6-4ac084e752f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-print margin-top btn btn-outline-primary</value>
+      <webElementGuid>ba2fcf91-0a47-4e4c-880b-f859d2ecaf73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Signature</value>
+      <webElementGuid>48057e90-6f5f-418b-b568-b6c1c274cf24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper registration-form&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row row d-flex flex-wrap&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-item&quot;]/div[@class=&quot;accordion-collapse collapse show&quot;]/div[@class=&quot;accordion-body&quot;]/form[1]/div[11]/div[2]/div[1]/div[@class=&quot;alex-brush&quot;]/button[@class=&quot;no-print margin-top btn btn-outline-primary&quot;]</value>
+      <webElementGuid>6dfa90c3-d0ab-4337-930a-039513f8a3b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>09efa5ad-7eb0-48c3-97f6-4bace4dcef55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div[3]/div/div/form/div[11]/div[2]/div/div/button</value>
+      <webElementGuid>ed8db6c5-915c-4834-ab81-04744d958af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participant’s Signature'])[3]/following::button[1]</value>
+      <webElementGuid>1beed366-4470-45e1-b9cb-92d19530eea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Name of Participant:'])[3]/following::button[1]</value>
+      <webElementGuid>7123fac5-3d5f-4f3b-8974-9f48375b4f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Signed'])[6]/preceding::button[1]</value>
+      <webElementGuid>b5d0af2c-627e-4e73-8e53-31c139f24b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[3]/preceding::button[1]</value>
+      <webElementGuid>e793e9f8-27fd-4fad-9030-65dfe93f039d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/form/div[11]/div[2]/div/div/button</value>
+      <webElementGuid>281dcfff-b271-4808-8d67-8105e39645fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add Signature' or . = 'Add Signature')]</value>
+      <webElementGuid>01764a5a-d42d-4a45-8c75-76b4bb70ac8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

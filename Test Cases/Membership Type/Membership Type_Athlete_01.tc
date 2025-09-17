@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Membership Type_Athlete_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4d7ff90-af51-4ca1-a060-2911a6378a65</testCaseGuid>
+</TestCaseEntity>

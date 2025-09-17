@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit  Next_1</name>
+   <tag></tag>
+   <elementGuidId>7e6f2eeb-7a0e-4306-9ca8-aaa95ec71983</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.accordion-collapse.collapse.show > div.accordion-body > form > div.clearfix.w-100.mt-5.d-flex.no-print.justify-content-between > button.no-print.btn.btn-primary.btn-style2.btn-md.me-0.ms-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Submit &amp; Next&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e1a15a2f-9ca5-41f8-8796-49d97849ce71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>96f4df02-0263-4e9c-b870-5e82c7211d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-print btn btn-primary btn-style2 btn-md me-0 ms-auto</value>
+      <webElementGuid>2fa22dbc-7e57-45e3-8667-a165d1ea0930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit &amp; Next </value>
+      <webElementGuid>eff90dbf-3b53-4142-8638-0b3d571e1abe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper registration-form&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row row d-flex flex-wrap&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-item&quot;]/div[@class=&quot;accordion-collapse collapse show&quot;]/div[@class=&quot;accordion-body&quot;]/form[1]/div[@class=&quot;clearfix w-100 mt-5 d-flex no-print justify-content-between&quot;]/button[@class=&quot;no-print btn btn-primary btn-style2 btn-md me-0 ms-auto&quot;]</value>
+      <webElementGuid>b346a40d-5bd8-4bc0-802c-672d2c282ec4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>d9d09102-69e1-48b5-9bfe-e6c50d75c547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div[2]/div/div/form/div[39]/button[2]</value>
+      <webElementGuid>759c6fcf-1186-408a-90cf-29de8a1203a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[2]/following::button[1]</value>
+      <webElementGuid>9c038e91-4900-4e65-a689-ae7f60ae046a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Signed'])[2]/following::button[2]</value>
+      <webElementGuid>3fc132f9-b2cd-41b1-9e2a-be106233e29f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waiver : Release of Liability'])[1]/preceding::button[1]</value>
+      <webElementGuid>1c512c95-f5e1-41b5-b989-a11a71415cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATHLETE INFORMATION'])[3]/preceding::button[2]</value>
+      <webElementGuid>79aaa439-4662-485f-9c85-65eaeced6486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form/div[39]/button[2]</value>
+      <webElementGuid>70a9644e-fc9a-4e8f-a267-6e2666032262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Submit &amp; Next ' or . = 'Submit &amp; Next ')]</value>
+      <webElementGuid>839937cd-7f6c-4ab5-ba77-e0c56af0a774</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

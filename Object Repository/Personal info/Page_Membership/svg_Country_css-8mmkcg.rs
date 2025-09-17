@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Country_css-8mmkcg</name>
+   <tag></tag>
+   <elementGuidId>c7ad3e34-3e68-4940-9c8f-8ddceb593c1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.css-8mmkcg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>svg >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>6c407e32-af00-4f30-84e0-bf304a806440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>bdb44c26-ce0b-4f01-adcb-5f1c734ef2c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>90e5f99d-6d76-49b2-9700-2fa9b0ff1bac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>80a7bc1e-c095-49f6-ac49-37bd1d16453e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>605acefa-f007-42b2-8c91-2a83c250c770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f8472cd2-6039-4eaa-94cc-b3638c7875ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-8mmkcg</value>
+      <webElementGuid>f78d1e0e-c6d0-4c34-91f5-46ae82c34ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper registration-form&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row row d-flex flex-wrap&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;row register-wrap&quot;]/div[@class=&quot;col-md-12 register-content&quot;]/div[@class=&quot;register-inner-wrap h-100&quot;]/div[@class=&quot;list-unstyled p-0&quot;]/div[@class=&quot;wizard-inner-step undefined current&quot;]/div[@class=&quot;wizard-content d-flex flex-wrap w-100&quot;]/div[@class=&quot;com-wrapper&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 form-section&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3&quot;]/div[@class=&quot;form-group mb-3 country_field&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-t3ipsp-control&quot;]/div[@class=&quot;react-select__indicators css-1wy0on6&quot;]/div[@class=&quot;react-select__indicator react-select__dropdown-indicator css-15lsz6c-indicatorContainer&quot;]/svg[@class=&quot;css-8mmkcg&quot;]</value>
+      <webElementGuid>78ae8ed2-7881-43d0-9623-6892356521b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>00c1dfad-af66-4092-ad0e-6536486322e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::*[name()='svg'][1]</value>
+      <webElementGuid>f6912685-9441-49c5-bda0-825cb9465447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USA'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>dd885faa-e588-468d-a2a8-24d1cdb57dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canada'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>57b9d567-180c-4bab-84e8-3d6392c942e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

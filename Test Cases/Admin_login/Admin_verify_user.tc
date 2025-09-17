@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin_verify_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>962d4a42-55bb-4bc2-a1e4-1cb5e008cb90</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Choose File</name>
+   <tag></tag>
+   <elementGuidId>06fd4770-7f45-4ade-91d3-0bb3b50e2f0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@for='file-input-medical.medical_clearance']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.input-file.form-control.d-flex.align-items-center.justify-content-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Choose File&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e2489340-4474-49fb-b656-ccee8792762e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>file-input-medical.medical_clearance</value>
+      <webElementGuid>a52fc227-f94c-4e53-a017-0093803d1bd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-file form-control d-flex align-items-center justify-content-center</value>
+      <webElementGuid>b0881877-a3e9-4915-a2b4-2e516c88bf29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Choose File</value>
+      <webElementGuid>887be299-4cfc-4f39-bf53-a29898e7d266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper registration-form&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row row d-flex flex-wrap&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;row register-wrap&quot;]/div[@class=&quot;col-md-12 register-content&quot;]/div[@class=&quot;register-inner-wrap h-100&quot;]/div[@class=&quot;list-unstyled p-0&quot;]/div[@class=&quot;wizard-inner-step undefined current&quot;]/div[@class=&quot;wizard-content d-flex flex-wrap w-100&quot;]/div[@class=&quot;com-wrapper&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group mb-3&quot;]/div[1]/div[@class=&quot;d-flex flex-wrap&quot;]/label[@class=&quot;input-file form-control d-flex align-items-center justify-content-center&quot;]</value>
+      <webElementGuid>de54fff2-c00e-4a44-a885-46899d549615</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div/div/div[5]/div[2]/div/form/div/div[6]/div/div/div/label</value>
+      <webElementGuid>6693d354-5953-4b32-8800-aedc8919fc6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::label[1]</value>
+      <webElementGuid>f8d8112a-9475-49de-a4c0-faff933642e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medical Clearance Form'])[1]/following::label[1]</value>
+      <webElementGuid>dfeecc6e-82cd-44b3-bdb2-2cc07a90f0a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Form Here'])[1]/preceding::label[1]</value>
+      <webElementGuid>5459289b-8b25-49f9-88de-b524ec3d3319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resume Participation Medical Clearance Form'])[1]/preceding::label[1]</value>
+      <webElementGuid>5d90f3f0-4273-484d-8f52-d01820a8c99d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Choose File']/parent::*</value>
+      <webElementGuid>e0bdb9fe-13a2-4162-b46b-26add2145ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/label</value>
+      <webElementGuid>8507cbb9-dfe3-446b-896f-d2936424a4a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Choose File' or . = ' Choose File')]</value>
+      <webElementGuid>a7e39ef0-8a7a-44c4-8ac1-68f36067a3f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Country</name>
+   <tag></tag>
+   <elementGuidId>be5c4366-8f6a-4428-8581-95602e2846f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div/div/div[4]/div[2]/div/form/div/div/div/div[12]/div/div[12]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__control.react-select__control--is-focused.react-select__control--menu-is-open.css-t3ipsp-control > div.react-select__value-container.css-hlgwow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Country$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e745647f-76b8-476f-9201-eec48ba05d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__value-container css-hlgwow</value>
+      <webElementGuid>f6c3c565-8f71-498a-9b08-0d4949b0ef22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Country</value>
+      <webElementGuid>00d8e731-3120-4509-98f9-438e0bf878bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper registration-form&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row row d-flex flex-wrap&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;row register-wrap&quot;]/div[@class=&quot;col-md-12 register-content&quot;]/div[@class=&quot;register-inner-wrap h-100&quot;]/div[@class=&quot;list-unstyled p-0&quot;]/div[@class=&quot;wizard-inner-step undefined current&quot;]/div[@class=&quot;wizard-content d-flex flex-wrap w-100&quot;]/div[@class=&quot;com-wrapper&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 form-section&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 form-inputs&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3&quot;]/div[@class=&quot;form-group mb-3 parent.0.parent_country_field&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-t3ipsp-control&quot;]/div[@class=&quot;react-select__value-container css-hlgwow&quot;]</value>
+      <webElementGuid>cf349501-698c-4e0e-9346-ab8a19e8e6c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div/div/div[4]/div[2]/div/form/div/div/div/div[12]/div/div[12]/div/div/div/div</value>
+      <webElementGuid>eb1ad091-8e0e-4cbd-9932-426a7b6ce711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[15]/following::div[4]</value>
+      <webElementGuid>ea9d4ec6-2e2e-4c12-b7cc-0b0d9a5b8e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USA'])[2]/preceding::div[5]</value>
+      <webElementGuid>15983d43-ad0d-4d54-a820-9331f3a81b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div[12]/div/div/div/div</value>
+      <webElementGuid>63ae2fc1-57db-4f23-8667-72fd8f5f48c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Country' or . = 'Country')]</value>
+      <webElementGuid>972aba4e-b4d2-44f3-b456-4e7e74ac6f04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

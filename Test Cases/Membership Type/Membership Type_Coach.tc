@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Membership Type_Coach</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>455862de-057a-4349-8b53-e32c525f73a4</testCaseGuid>
+</TestCaseEntity>

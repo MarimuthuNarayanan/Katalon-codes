@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Month_react-select__indicators css-1wy0on6</name>
+   <tag></tag>
+   <elementGuidId>cd694120-9633-44cf-81c4-752f27ff7729</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div[2]/div/div[2]/form/div/div[3]/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__indicators.css-1wy0on6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.react-select__indicators >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2acc02a-4e04-4e74-9a25-97992f2c6e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__indicators css-1wy0on6</value>
+      <webElementGuid>6756d951-6b4f-4be7-9e59-ea403639dc9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper registration-form&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row row d-flex flex-wrap&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;payment-frm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 order-1 order-md-2&quot;]/div[@class=&quot;card card-custom h-100 mb-3&quot;]/div[@class=&quot;card-body p-4&quot;]/form[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;form-group mb-3&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-t3ipsp-control&quot;]/div[@class=&quot;react-select__indicators css-1wy0on6&quot;]</value>
+      <webElementGuid>f7744403-ec7e-45ab-9b39-30ae5a56a7af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div[2]/div/div[2]/form/div/div[3]/div/div/div/div/div[2]</value>
+      <webElementGuid>93939d52-66ad-4175-ac00-2b193e3c2dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Month'])[1]/following::div[2]</value>
+      <webElementGuid>db839b6f-a910-446d-acaf-0ff8fc84256e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[6]</value>
+      <webElementGuid>a4b4d3ca-1e11-4413-b96c-465d6a06a906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::div[16]</value>
+      <webElementGuid>4be89f27-c8cc-48ff-ab82-fdf524453cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]</value>
+      <webElementGuid>decbefca-f98b-43c6-aeeb-507d5af90ee4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

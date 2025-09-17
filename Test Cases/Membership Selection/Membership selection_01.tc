@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Membership selection_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db5f046a-67db-42b3-a92f-0894d1a30f1c</testCaseGuid>
+</TestCaseEntity>

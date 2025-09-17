@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_450.05</name>
+   <tag></tag>
+   <elementGuidId>7ba8cc1d-0a0b-4bbf-9733-a86693bcd404</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[5]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;$450.05&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>109e6acb-b27e-4eb5-96d5-af4a0e34e296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-bold text-danger</value>
+      <webElementGuid>5949f42c-7ce9-49c9-ad16-349e38f09831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$450.05</value>
+      <webElementGuid>9256e024-a6fa-4e1b-a436-13ca4d1228ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper registration-form&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row row d-flex flex-wrap&quot;]/div[@class=&quot;col-md-12 p-0&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;payment-frm&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 order-2 order-md-1 mt-3 mt-md-0&quot;]/div[@class=&quot;card card-custom mb-4&quot;]/div[@class=&quot;card-body p-4&quot;]/div[@class=&quot;col d-flex justify-content-end&quot;]/div[@class=&quot;d-flex justify-content-between w-100&quot;]/span[@class=&quot;fw-bold text-danger&quot;]</value>
+      <webElementGuid>2604aeaa-8067-425e-82c9-8ad77fdce098</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[5]/div/span</value>
+      <webElementGuid>180c9331-4e92-4ab1-9eec-89eae41e74fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::span[1]</value>
+      <webElementGuid>f8f285cf-fb4d-4981-b15e-a385a0a5a3d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$15.05'])[1]/following::span[1]</value>
+      <webElementGuid>a4e93dd1-7b39-40f0-91b9-f4ab240452c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card Information'])[1]/preceding::span[1]</value>
+      <webElementGuid>4f75d10c-677b-4fd1-b71d-253068f944c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/span</value>
+      <webElementGuid>15e2c5bb-9db5-4ca8-bec4-9d383fad64e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$450.05' or . = '$450.05')]</value>
+      <webElementGuid>1780e822-74b9-4eb2-b3f5-56b98260d4c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
