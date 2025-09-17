@@ -276,6 +276,7 @@ WebUI.click(findTestObject('Object Repository/Personal info/Page_Membership/div_
 robot.keyPress(KeyEvent.VK_ENTER)
 
 robot.keyRelease(KeyEvent.VK_ENTER)
+//comments
 
 WebUI.delay(1)
 
