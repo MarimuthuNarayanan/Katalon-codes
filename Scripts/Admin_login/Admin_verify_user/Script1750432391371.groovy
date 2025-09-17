@@ -100,6 +100,3 @@ WebUI.comment('Membership_reports')
 WebUI.takeFullPageScreenshot()
 
 WebUI.closeBrowser()
-
-//sample
-
