@@ -288,3 +288,5 @@ WebUI.setText(findTestObject('Object Repository/Personal info/Page_Membership/in
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Personal info/Page_Membership/button_Next_1'))
+
+//sample branch
